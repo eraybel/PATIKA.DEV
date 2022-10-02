@@ -1,0 +1,47 @@
+/* Main */
+body {
+  background-color: antiquewhite;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 5px;
+}
+/* Font Size */
+.fs-16 {
+  font-size: 16px;
+}
+.fs-18 {
+  font-size: 18px;
+  color: purple;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+/* Heading Tags */
+
+h1 {
+  color: palevioletred;
+  text-align: center;
+}
+h2 {
+  color: purple;
+  text-align: center;
+}
+h3 {
+  color: orange;
+}
+
+/* Class */
+
+.navbar {
+  text-align: center;
+}
+.text-center,
+.list-position {
+  text-align: center;
+  list-style-position: inside;
+}
