@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.clear {
+  clear: both;
+}
+.fs-14 {
+  font-size: 16px;
+}
+.container {
+  margin: 8px;
+  width: auto;
+  height: auto;
+  padding-left: 250px;
+  display: block;
+}
+.search {
+  display: block;
+  width: 1362px;
+  text-align: center;
+  background-color: gainsboro;
+}
+img {
+  margin-left: 780px;
+  text-align: center;
+  display: block;
+  margin-top: 150px;
+}
+.box1 {
+  background-color: aqua;
+  display: block;
+  width: 450px;
+  float: left;
+  padding-top: 5px;
+  height: 75px;
+}
+.box2 {
+  background-color: rgb(115, 196, 196);
+  width: 297px;
+  float: left;
+  display: block;
+  height: 70px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 3px;
+}
+.box3 {
+  background-color: rgb(75, 148, 158);
+  width: 609px;
+  float: left;
+  display: block;
+  height: 70px;
+  margin-left: 3px;
+  height: 80px;
+}
+.copy {
+  display: block;
+  width: 1362px;
+  text-align: center;
+  padding-left: 250px;
+  padding-top: 20px;
+}
